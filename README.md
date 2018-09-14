@@ -5,7 +5,7 @@ This project explores Airbnb data for Vancouver and it aims at answering this ma
 
 I present a Machine Learning model to model the price of Airbnb listings. Analysing the model's results reveals the important features that determine the price. 
 
-A less technical article with more in-depth analysis of the project results can be found on Medium:
+A less technical article with more in-depth analysis of the project results can be found on [Medium](https://medium.com/@amir.tahmasbi22/how-do-you-set-your-airbnb-price-7bf3cddd9257).
 
 # Installation
 
